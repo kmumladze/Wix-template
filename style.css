@@ -273,3 +273,6 @@ textarea{
     background-color: #57BBBF;
     border: 2px solid black;
 }
+button{
+    color: red;
+}
